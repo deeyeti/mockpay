@@ -1,7 +1,9 @@
 # MockPay - Payment Gateway Simulator
 
 <div align="center">
-  A developer-focused payment gateway simulation platform
+  <img src="./public/mockpay-logo.svg" alt="MockPay Logo" width="80" height="80">
+  
+  **A developer-focused payment gateway simulation platform**
   
   Test payment flows, webhooks, and failure scenarios without using real money.
   
@@ -389,5 +391,3 @@ MIT © 2024 MockPay
 <div align="center">
   <sub>Built with ❤️ for developers who love testing payment integrations</sub>
 </div>
-
-
